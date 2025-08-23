@@ -788,7 +788,7 @@
     <bool name="support_autobrightness_by_application_category">true</bool>
 
     <!-- Whether support dolby version brighten -->
-    <bool name="support_dolby_version_brighten">true</bool>
+    <bool name="support_dolby_version_brighten">false</bool>
 
     <!-- Whether support HDR version brighten to HBM -->
     <bool name="support_hdr_hbm_brighten">true</bool>
@@ -811,7 +811,7 @@
     <bool name="gallery_support_time_burst_video">true</bool>
     <bool name="support_local_ocr">true</bool>
     <bool name="support_hdr_enhance">true</bool>
-    <bool name="gallery_support_dolby">true</bool>
+    <bool name="gallery_support_dolby">false</bool>
     <bool name="gallery_support_print">false</bool>
     <!-- MIUI ADD: Adapt_MIUIAdaptFrame -->
     <string-array name="dynamic_partition_list">
