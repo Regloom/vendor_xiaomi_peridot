@@ -2852,6 +2852,8 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "libgsl",
+                "liblog",
+                "libnativewindow",
                 "libc++",
                 "libc",
                 "libm",
